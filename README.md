@@ -50,7 +50,7 @@ The dataset consists of:
 # Steps to Execute
 # Clone the repository:
 
-git clone https://github.com/yourusername/fake-news-detection.git
+git clone https://github.com/amna-sarwar/Fake-News-Detection-Using-Python.git
 # Navigate to the project directory:
 
 cd fake-news-detection
